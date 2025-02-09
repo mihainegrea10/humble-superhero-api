@@ -1,9 +1,11 @@
 # The server works on http://localhost:3000/superheroes
 ##
  * Collaboration Notes:
- * If working with a teammate, I would suggest pair programming for initial setup,
- * followed by peer reviews to refine code quality. We could also use GitHub issues
- * to track improvements and ensure alignment.
+ * - Pair Program during the initial setup to ensure shared understanding.
+ * - Use Code Reviews to improve quality and share best practices.
+ * - Communicate via GitHub Issues to track improvements, bugs, and new features.
+ * - Plan Enhancements Together by discussing database integration, authentication, and API scaling.
+ * - Write Clear Documentation to make onboarding easier for new contributors.
  *
  * If I had more time:
  * - Implement database persistence (e.g., PostgreSQL or MongoDB).
