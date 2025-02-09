@@ -1,4 +1,4 @@
-# The serve work on http://localhost:3000/superheroes
+# The server works on http://localhost:3000/superheroes
 ##
  * Collaboration Notes:
  * If working with a teammate, I would suggest pair programming for initial setup,
